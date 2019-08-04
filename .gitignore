@@ -4,6 +4,8 @@ project.lock.json
 .DS_Store
 *.pyc
 *Db.*
+*.db
+Migrations/
 
 # Visual Studio Code
 .vscode
